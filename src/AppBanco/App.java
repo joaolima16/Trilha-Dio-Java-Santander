@@ -1,6 +1,9 @@
+package AppBanco;
+
 import java.util.Scanner;
 
-import Entities.ContaBanco;
+import AppBanco.Entities.ContaBanco;
+
 
 public class App{
         public static void main(String[] args) {
